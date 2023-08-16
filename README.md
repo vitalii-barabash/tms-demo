@@ -1,4 +1,4 @@
-# Test Case Management System - Spring Boot CRUD Application
+# [WIP] Test Case Management System - Spring Boot CRUD Application
 
 This project is a simple Test Case Management System built using Spring Boot, Java 17, Maven, OpenFeign, OpenAPI, and a variety of testing technologies. The primary goal of this project is to showcase the basics of backend development with Spring Boot and demonstrate the capabilities of the Spring Boot test framework, including test slices. The project also integrates a frontend application developed using JavaScript and Vue.js, as well as a query-service implemented in Python using Flask and LangChain.
 
