@@ -1,0 +1,14 @@
+{
+  "library": "rest-assured",
+  "dateLibrary": "java8",
+  "serializationLibrary": "jackson",
+  "skipValidateSpec": true,
+  "generateApiDocumentation": false,
+  "generateModelDocumentation": false,
+  "generateModelTests": false,
+  "generateApiTests": false,
+  "globalProperties": {
+    "modelTests": false
+  },
+  "ignoreFileOverride": "generator/.openapi-generator-ignore"
+}
