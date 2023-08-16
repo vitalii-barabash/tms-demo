@@ -55,7 +55,7 @@ The project is structured as follows:
 1. Start the frontend application: 
     - `npm install`
     - `npm run dev`
-1. Navigate to the `query-service` directory
+1. Open a new terminal window and navigate to the `query-service` directory
 1. Start query-service:
     - `export OPENAI_API_KEY="{your_openai_api_key}"`
     - `pip install -r requirements.txt`
