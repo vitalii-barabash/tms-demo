@@ -3,6 +3,7 @@
 This project is a simple Test Case Management System built using Spring Boot, Java 17, Maven, OpenFeign, OpenAPI, and a variety of testing technologies. The primary goal of this project is to showcase the basics of backend development with Spring Boot and demonstrate the capabilities of the Spring Boot test framework, including test slices. The project also integrates a frontend application developed using JavaScript and Vue.js, as well as a query-service implemented in Python using Flask and LangChain.
 
 ## Features
+![](./docs/tmo-demo-arch.png)
 
 - **CRUD Operations**: The Spring Boot CRUD application provides endpoints for creating, reading, updating, and deleting test cases.
 - **Integration with query-service**: The Spring Boot application can communicate with the query-service internally to perform specific operations.
